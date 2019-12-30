@@ -1,4 +1,4 @@
-FROM alpine:3
+FROM alpine:3.11
 
 LABEL maintainer="Mike Yu <blowfishlulu@gmail.com>"
 
