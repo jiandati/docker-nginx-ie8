@@ -3,3 +3,11 @@
 NGINX mainline with SSL support for IE8  (Windows XP)
 
 Forked from https://github.com/nginxinc/docker-nginx/commit/e5123eea0d29c8d13df17d782f15679458ff899e
+
+## Supported tags
+
+-	`1.17.7-alpine`, `mainline-alpine`, `1-alpine`, `1.17-alpine`, `alpine`
+
+## See also
+
+https://ssl-config.mozilla.org/#server=nginx&config=old
